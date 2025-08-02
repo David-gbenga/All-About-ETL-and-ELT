@@ -1,0 +1,11 @@
+industry_name,number_of_firms,average_revenue,average_employees,growth_rate,market_share,region,year_established,profit_margin,regulatory_compliance_score,customer_satisfaction,digital_transformation_index,sustainability_score
+Finance,92,600.09,116,5.11,14.24,Africa,1970,28.04,9,9.7,0.18,87
+Healthcare,208,525.17,760,7.28,21.35,Europe,2015,20.83,8,6.6,0.11,7
+Retail,403,266.83,832,14.25,21.09,Africa,1984,25.35,9,6.3,0.24,45
+Manufacturing,341,780.17,4924,12.55,9.37,South America,1970,3.68,8,7.8,0.2,63
+Technology,196,836.96,2570,3.02,20.91,South America,1991,12.7,3,7.1,0.1,17
+Energy,165,555.35,4644,4.09,4.49,Africa,1992,24.22,4,9.5,0.49,44
+Telecommunications,218,88.7,201,7.69,6.53,Asia,1967,14.99,8,9.4,0.88,54
+Transportation,61,249.75,1125,10.5,12.95,Africa,1958,2.4,9,8.0,0.32,74
+Hospitality,496,114.42,1645,4.42,23.91,Africa,1960,23.19,2,3.9,0.29,21
+Education,155,905.04,2796,8.94,1.32,Australia,1981,18.85,5,2.7,0.4,14
