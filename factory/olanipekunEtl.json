@@ -1,0 +1,9 @@
+{
+	"name": "olanipekunEtl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96afd708-ba5b-4c1d-b1df-228dc049db4d",
+		"tenantId": "b0abd1ed-4966-4274-9f19-59dd663e81f5"
+	}
+}
